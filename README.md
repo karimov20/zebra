@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/karimov20/zebra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karimov20/zebra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Zebra Facts
+A glorious fixture of the African landscape, the zebra is a very flashy member of the normally mousy-colored horse family. Sporting a robust body of bold stripes, the zebra spends its busy life on the move seeking the best grazing in the mostly dusty world of the African savanna. 
+Because its skin is dark, many experts suggest that the zebra is a black (sometimes brown) furred animal with white stripes, while others will argue that the zebra has black stripes on a white field, pointing out the animals white undersides.
+No matter, the effect is dazzling, and provides this gregarious herd animal with a confusing defense of fluctuating dark and light motion. When a group of zebras rumbles passed a lion, leopard or cheetah, it is virtually impossible for the predator to pick out just one individual target. For the zebra, as is the case with many herd animals, there is great security in numbers.
+There are 3 main species of zebra. The most familiar are the plains zebras of which there are 5 subspecies each with slight variations in not only stripe pattern but color as well, some being decidedly brown instead of black. Of these, the Grant's, a hearty animal true, bold black and white stripes that grow wider as they reach the rump, is the classic zebra in type.
+Although there are some more populous sub-species, and interbreeding occurs, the Grants remains one of the most iconic sights on the African plains. The mountain zebras consist of 2 subspecies most easily distinguished by the fishbone pattern across the top of the rump. Mountain zebras also have a dewlap - a flap of loose skin at the throat, the function of which is unclear.
+Finally, the Grevy's zebra is in its own sub genus and is more donkey-like. It has thinner more numerous, and closely spaced stripes, often brown in color.
+All the zebra species are herd animals, highly social and dependent on the camouflaging effect of a mass of striped bodies for survival. Constantly moving, always alert for danger, zebras have surprisingly good eyesight, and it is believed that, despite being monochrome themselves, they actually see the world around them in full color. 
+# Why Does A Zebra Have Stripes?
+Even at the edge of a watering hole there is danger, but zebras love a crowd. The herd instinct draws them together, the exquisite skin often keeps  them in one piece in more ways than one.  
+Imagine a crouching lion or hidden crocodile trying to select  just one  target in a dazzling sea of stripes. For well-camouflaged animals such as the zebra, it is more often movement and not the outline of a form that attracts the predator to an individual. A stilted gait,  the bobbing head that comes with a lame leg, a stumble, a hesitation, the curtain of healthy companions rush away and the target is revealed.
+But despite being every bodies favorite meal, the plains zebra is an extraordinarily successful animal, and though nature channels are rife with scenes of tragic endings, the majority of zebras lead long lives of 15 to 20 years. Even with territories dwindling as human-kind encroaches, the plains zebra herds are over 3/4 of a million animals strong.
