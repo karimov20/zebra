@@ -1,5 +1,5 @@
 # Zebra Facts
-![Branching](zebra.jpg)
+![Branching](zebra1.jpg)
 A glorious fixture of the African landscape, the zebra is a very flashy member of the normally mousy-colored horse family. Sporting a robust body of bold stripes, the zebra spends its busy life on the move seeking the best grazing in the mostly dusty world of the African savanna. 
 Because its skin is dark, many experts suggest that the zebra is a black (sometimes brown) furred animal with white stripes, while others will argue that the zebra has black stripes on a white field, pointing out the animals white undersides.
 No matter, the effect is dazzling, and provides this gregarious herd animal with a confusing defense of fluctuating dark and light motion. When a group of zebras rumbles passed a lion, leopard or cheetah, it is virtually impossible for the predator to pick out just one individual target. For the zebra, as is the case with many herd animals, there is great security in numbers.
